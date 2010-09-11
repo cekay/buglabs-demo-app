@@ -9,7 +9,7 @@
     android:id="@+id/hello"
     android:layout_width="fill_parent" 
     android:layout_height="wrap_content" 
-    android:text="Hello, Conference"
+    android:text="@string/conference"
     />
     
 <ImageView android:id="@+id/ImageView01" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/icon"></ImageView>
